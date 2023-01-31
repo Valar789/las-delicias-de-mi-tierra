@@ -16,9 +16,7 @@ export default function Testimonios() {
         <div className="relative col-span-4 flex flex-col sm:px-10 md:px-0 lg:px-10">
           <div className="bubble shadow-xl ">
             <div className="text-gray-500">
-              Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam
-              nonummy nibh euismod tincidunt ut laoreet dolore magna nulla
-              facilisi.
+            Los postres de esta empresa son simplemente espectaculares. Me encanta el sabor único que tienen gracias a las frutas típicas de la región. Definitivamente endulzaron mis momentos más especiales. 
             </div>
             <div className="flex justify-end pt-5">
               <div className="text-6xl fuenteWinter color-secondary">❝</div>
@@ -31,9 +29,7 @@ export default function Testimonios() {
         <div className="relative col-span-4 flex flex-col sm:px-10 md:px-0 lg:px-10">
           <div className="bubble shadow-xl ">
             <div className="text-gray-500">
-              Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam
-              nonummy nibh euismod tincidunt ut laoreet dolore magna nulla
-              facilisi.
+            Los productos de la empresa son increíblemente frescos y deliciosos. El sabor de la piña en particular es algo que no olvidaré nunca. ¡Buen trabajo.
             </div>
             <div className="flex justify-end pt-5">
               <div className="text-6xl fuenteWinter color-secondary ">❝</div>
@@ -46,9 +42,7 @@ export default function Testimonios() {
         <div className="relative col-span-4 flex flex-col sm:px-10 md:px-0 lg:px-10">
           <div className="bubble shadow-xl ">
             <div className="text-gray-500">
-              Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam
-              nonummy nibh euismod tincidunt ut laoreet dolore magna nulla
-              facilisi.
+            Como amante del chocolate, tengo que decir que los postres de chocolate de esta empresa son de otro mundo. Me sorprendió gratamente su sabor y su textura. Sin duda los recomendaré a todos mis amigos.
             </div>
             <div className="flex justify-end pt-5">
               <div className="text-6xl fuenteWinter color-secondary ">❝</div>
